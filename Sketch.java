@@ -1,8 +1,6 @@
 import processing.core.PApplet;
 
 public class Sketch extends PApplet {
-	
-	
   /**
    * Called once at the beginning of execution, put your size all in this method
    */

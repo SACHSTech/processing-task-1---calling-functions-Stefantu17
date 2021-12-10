@@ -1,7 +1,7 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
+ * Main class to execute cat sketch
  * @author S. Tuczynski
  *
  */

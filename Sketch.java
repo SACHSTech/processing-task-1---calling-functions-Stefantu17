@@ -5,7 +5,7 @@ public class Sketch extends PApplet {
    * Called once at the beginning of execution, put your size all in this method
    */
   public void settings() {
-	// put your size call here
+    // Set size of application
     size(400, 400);
   }
 
@@ -14,6 +14,7 @@ public class Sketch extends PApplet {
    * values here i.e background, stroke, fill etc.
    */
   public void setup() {
+    // Set background colour to sky blue
     background(135, 206, 235);
   }
 
